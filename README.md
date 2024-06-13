@@ -1,2 +1,2 @@
-# lc-challenges-python-mikele
+# Digital course
 Santander course
